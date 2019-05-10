@@ -1,0 +1,11 @@
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.csprojAssemblyReference.cache
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.Form1.resources
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.Properties.Resources.resources
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.csproj.GenerateResource.cache
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.csproj.CoreCompileInputs.cache
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\bin\Debug\Peanuts.exe.config
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\bin\Debug\Peanuts.exe
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\bin\Debug\Peanuts.pdb
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.Home.resources
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.exe
+C:\Users\Jarryd\Source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.pdb
